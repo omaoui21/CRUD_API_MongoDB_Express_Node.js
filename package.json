@@ -1,0 +1,21 @@
+{
+  "homepage": "https://omaoui21.github.com/CRUD_API_MongoDB_Express_Node.js",
+  "name": "crud_api_mongodb_express_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "gh-pages": "^4.0.0",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
